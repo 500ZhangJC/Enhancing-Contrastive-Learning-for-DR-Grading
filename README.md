@@ -1,7 +1,7 @@
-# Enhancing-Contrastive-Learning-for-DR-Grading
+# Enhancing-semi-supervised-Contrastive-Learning-for-DR-Grading
 
 ## Noting
-Due to the regulations of our research group and the relevance to our ongoing work, only a portion of the core code of this project is made available as open source. We hope this approach ensures the smooth progress of our related work and appreciate your understanding and support. Thank you for your interest in our project.
+Due to the regulations of our research group and the relevance to our ongoing work, only a portion of the core code of this project is made available as open source. We hope this approach ensures the smooth progress of our related work and appreciate your understanding and support. Thank you for your interest in our project. (We provide the contrastive learning and the downstream task code of our framework)
 
 
 ## Overview
